@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("Crack").killer__boy()
+    __import__("Crack").approval()._run_()
 except Exception as e:
     exit(str(e))
